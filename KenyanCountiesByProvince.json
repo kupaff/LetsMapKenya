@@ -1,0 +1,81 @@
+{
+    "NairobiProvince": [
+        "Cairo Governorate",
+        "Nairobi"
+    ],
+    "EasternProvince": [
+        "Eastern Region",
+        "Embu",
+        "Isiolo",
+        "Kitui",
+        "Machakos",
+        "Makueni",
+        "Marsabit",
+        "Meru",
+        "Tharaka Nithi",
+        "Tharaka-Nithi"
+    ],
+    "CentralProvince": [
+        "Central",
+        "Kiambu",
+        "Kiambu/Thika",
+        "Kirinyaga",
+        "Muranga",
+        "Muranga/Kiambu",
+        "Nyandarua",
+        "Nyeri"
+    ],
+    "WesternProvince": [
+        "Bungoma",
+        "Busia",
+        "Kakamega",
+        "Vihiga",
+        "Western"
+    ],
+    "CoastProvince": [
+        "Coast",
+        "Kilifi",
+        "Kilifi/Mombasa",
+        "Kwale",
+        "Lamu",
+        "Mombasa",
+        "Taita Taveta",
+        "Taita-Taveta",
+        "Tana River"
+    ],
+    "NorthEasternProvince": [
+        "Garissa",
+        "Mandera",
+        "Wajir"
+    ],
+    "RiftValleyProvince": [
+        "Baringo",
+        "Bomet",
+        "Elgeyo - Marakwet",
+        "Elgeyo-Marakwet",
+        "Kajiado",
+        "Kericho",
+        "Laikipia",
+        "Nakuru",
+        "Nandi",
+        "Narok",
+        "Rift Valley",
+        "Samburu",
+        "Trans Nzoia",
+        "Trans Nzoia/Bungoma",
+        "Trans-Nzoia",
+        "Turkana",
+        "Uasin Gishu",
+        "West Pokot",
+        "Wilaya ya Nakuru"
+    ],
+    "NyanzaProvince": [
+        "Homa Bay",
+        "Kisii",
+        "Kisumu",
+        "Migori",
+        "Nyamira",
+        "Nyanza",
+        "Siaya"
+    ]
+}
