@@ -1,0 +1,1838 @@
+{
+  "NAIROBI": [
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "KAMUKUNJI",
+      "constituencyCode": 288
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "WESTLANDS",
+      "constituencyCode": 274
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "DAGORETTI NORTH",
+      "constituencyCode": 275
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "ROYSAMBU",
+      "constituencyCode": 279
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "STAREHE",
+      "constituencyCode": 289
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "LANGATA",
+      "constituencyCode": 277
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "DAGORETTI SOUTH",
+      "constituencyCode": 276
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "KASARANI",
+      "constituencyCode": 280
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "RUARAKA",
+      "constituencyCode": 281
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "KIBRA",
+      "constituencyCode": 278
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "MATHARE",
+      "constituencyCode": 290
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "EMBAKASI WEST",
+      "constituencyCode": 286
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "EMBAKASI EAST",
+      "constituencyCode": 285
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "EMBAKASI NORTH",
+      "constituencyCode": 283
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "EMBAKASI CENTRAL",
+      "constituencyCode": 284
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "EMBAKASI SOUTH",
+      "constituencyCode": 282
+    },
+    {
+      "countyCode": 47,
+      "countyName": "NAIROBI",
+      "constituency": "MAKADARA",
+      "constituencyCode": 287
+    }
+  ],
+  "MOMBASA": [
+    {
+      "countyCode": 1,
+      "countyName": "MOMBASA",
+      "constituency": "KISAUNI",
+      "constituencyCode": 3
+    },
+    {
+      "countyCode": 1,
+      "countyName": "MOMBASA",
+      "constituency": "MVITA",
+      "constituencyCode": 6
+    },
+    {
+      "countyCode": 1,
+      "countyName": "MOMBASA",
+      "constituency": "JOMVU",
+      "constituencyCode": 2
+    },
+    {
+      "countyCode": 1,
+      "countyName": "MOMBASA",
+      "constituency": "NYALI",
+      "constituencyCode": 4
+    },
+    {
+      "countyCode": 1,
+      "countyName": "MOMBASA",
+      "constituency": "LIKONI",
+      "constituencyCode": 5
+    },
+    {
+      "countyCode": 1,
+      "countyName": "MOMBASA",
+      "constituency": "CHANGAMWE",
+      "constituencyCode": 1
+    }
+  ],
+  "KWALE": [
+    {
+      "countyCode": 2,
+      "countyName": "KWALE",
+      "constituency": "KINANGO",
+      "constituencyCode": 10
+    },
+    {
+      "countyCode": 2,
+      "countyName": "KWALE",
+      "constituency": "MATUGA",
+      "constituencyCode": 9
+    },
+    {
+      "countyCode": 2,
+      "countyName": "KWALE",
+      "constituency": "LUNGA LUNGA",
+      "constituencyCode": 8
+    },
+    {
+      "countyCode": 2,
+      "countyName": "KWALE",
+      "constituency": "MSAMBWENI",
+      "constituencyCode": 7
+    }
+  ],
+  "KILIFI": [
+    {
+      "countyCode": 3,
+      "countyName": "KILIFI",
+      "constituency": "KALOLENI",
+      "constituencyCode": 13
+    },
+    {
+      "countyCode": 3,
+      "countyName": "KILIFI",
+      "constituency": "GANZE",
+      "constituencyCode": 15
+    },
+    {
+      "countyCode": 3,
+      "countyName": "KILIFI",
+      "constituency": "KILIFI NORTH",
+      "constituencyCode": 11
+    },
+    {
+      "countyCode": 3,
+      "countyName": "KILIFI",
+      "constituency": "KILIFI SOUTH",
+      "constituencyCode": 12
+    },
+    {
+      "countyCode": 3,
+      "countyName": "KILIFI",
+      "constituency": "MAGARINI",
+      "constituencyCode": 17
+    },
+    {
+      "countyCode": 3,
+      "countyName": "KILIFI",
+      "constituency": "RABAI",
+      "constituencyCode": 14
+    },
+    {
+      "countyCode": 3,
+      "countyName": "KILIFI",
+      "constituency": "MALINDI",
+      "constituencyCode": 16
+    }
+  ],
+  "TANA RIVER": [
+    {
+      "countyCode": 4,
+      "countyName": "TANA RIVER",
+      "constituency": "GALOLE",
+      "constituencyCode": 19
+    },
+    {
+      "countyCode": 4,
+      "countyName": "TANA RIVER",
+      "constituency": "BURA",
+      "constituencyCode": 20
+    },
+    {
+      "countyCode": 4,
+      "countyName": "TANA RIVER",
+      "constituency": "GARSEN",
+      "constituencyCode": 18
+    }
+  ],
+  "LAMU": [
+    {
+      "countyCode": 5,
+      "countyName": "LAMU",
+      "constituency": "LAMU WEST",
+      "constituencyCode": 22
+    },
+    {
+      "countyCode": 5,
+      "countyName": "LAMU",
+      "constituency": "LAMU EAST",
+      "constituencyCode": 21
+    }
+  ],
+  "TAITA TAVETA": [
+    {
+      "countyCode": 6,
+      "countyName": "TAITA TAVETA",
+      "constituency": "WUNDANYI",
+      "constituencyCode": 24
+    },
+    {
+      "countyCode": 6,
+      "countyName": "TAITA TAVETA",
+      "constituency": "VOI",
+      "constituencyCode": 26
+    },
+    {
+      "countyCode": 6,
+      "countyName": "TAITA TAVETA",
+      "constituency": "MWATATE",
+      "constituencyCode": 25
+    },
+    {
+      "countyCode": 6,
+      "countyName": "TAITA TAVETA",
+      "constituency": "TAVETA",
+      "constituencyCode": 23
+    }
+  ],
+  "GARISSA": [
+    {
+      "countyCode": 7,
+      "countyName": "GARISSA",
+      "constituency": "BALAMBALA",
+      "constituencyCode": 28
+    },
+    {
+      "countyCode": 7,
+      "countyName": "GARISSA",
+      "constituency": "IJARA",
+      "constituencyCode": 32
+    },
+    {
+      "countyCode": 7,
+      "countyName": "GARISSA",
+      "constituency": "DADAAB",
+      "constituencyCode": 30
+    },
+    {
+      "countyCode": 7,
+      "countyName": "GARISSA",
+      "constituency": "GARISSA TOWNSHIP",
+      "constituencyCode": 27
+    },
+    {
+      "countyCode": 7,
+      "countyName": "GARISSA",
+      "constituency": "FAFI",
+      "constituencyCode": 31
+    },
+    {
+      "countyCode": 7,
+      "countyName": "GARISSA",
+      "constituency": "LAGDERA",
+      "constituencyCode": 29
+    }
+  ],
+  "WAJIR": [
+    {
+      "countyCode": 8,
+      "countyName": "WAJIR",
+      "constituency": "WAJIR WEST",
+      "constituencyCode": 36
+    },
+    {
+      "countyCode": 8,
+      "countyName": "WAJIR",
+      "constituency": "WAJIR NORTH",
+      "constituencyCode": 33
+    },
+    {
+      "countyCode": 8,
+      "countyName": "WAJIR",
+      "constituency": "WAJIR SOUTH",
+      "constituencyCode": 38
+    },
+    {
+      "countyCode": 8,
+      "countyName": "WAJIR",
+      "constituency": "TARBAJ",
+      "constituencyCode": 35
+    },
+    {
+      "countyCode": 8,
+      "countyName": "WAJIR",
+      "constituency": "ELDAS",
+      "constituencyCode": 37
+    },
+    {
+      "countyCode": 8,
+      "countyName": "WAJIR",
+      "constituency": "WAJIR EAST",
+      "constituencyCode": 34
+    }
+  ],
+  "MANDERA": [
+    {
+      "countyCode": 9,
+      "countyName": "MANDERA",
+      "constituency": "MANDERA SOUTH",
+      "constituencyCode": 42
+    },
+    {
+      "countyCode": 9,
+      "countyName": "MANDERA",
+      "constituency": "MANDERA NORTH",
+      "constituencyCode": 41
+    },
+    {
+      "countyCode": 9,
+      "countyName": "MANDERA",
+      "constituency": "MANDERA WEST",
+      "constituencyCode": 39
+    },
+    {
+      "countyCode": 9,
+      "countyName": "MANDERA",
+      "constituency": "BANISSA",
+      "constituencyCode": 40
+    },
+    {
+      "countyCode": 9,
+      "countyName": "MANDERA",
+      "constituency": "LAFEY",
+      "constituencyCode": 44
+    },
+    {
+      "countyCode": 9,
+      "countyName": "MANDERA",
+      "constituency": "MANDERA EAST",
+      "constituencyCode": 43
+    }
+  ],
+  "MARSABIT": [
+    {
+      "countyCode": 10,
+      "countyName": "MARSABIT",
+      "constituency": "NORTH HORR",
+      "constituencyCode": 46
+    },
+    {
+      "countyCode": 10,
+      "countyName": "MARSABIT",
+      "constituency": "MOYALE",
+      "constituencyCode": 45
+    },
+    {
+      "countyCode": 10,
+      "countyName": "MARSABIT",
+      "constituency": "LAISAMIS",
+      "constituencyCode": 48
+    },
+    {
+      "countyCode": 10,
+      "countyName": "MARSABIT",
+      "constituency": "SAKU",
+      "constituencyCode": 47
+    }
+  ],
+  "ISIOLO": [
+    {
+      "countyCode": 11,
+      "countyName": "ISIOLO",
+      "constituency": "ISIOLO NORTH",
+      "constituencyCode": 49
+    },
+    {
+      "countyCode": 11,
+      "countyName": "ISIOLO",
+      "constituency": "ISIOLO SOUTH",
+      "constituencyCode": 50
+    }
+  ],
+  "MERU": [
+    {
+      "countyCode": 12,
+      "countyName": "MERU",
+      "constituency": "NORTH IMENTI",
+      "constituencyCode": 56
+    },
+    {
+      "countyCode": 12,
+      "countyName": "MERU",
+      "constituency": "TIGANIA WEST",
+      "constituencyCode": 54
+    },
+    {
+      "countyCode": 12,
+      "countyName": "MERU",
+      "constituency": "SOUTH IMENTI",
+      "constituencyCode": 59
+    },
+    {
+      "countyCode": 12,
+      "countyName": "MERU",
+      "constituency": "BUURI",
+      "constituencyCode": 57
+    },
+    {
+      "countyCode": 12,
+      "countyName": "MERU",
+      "constituency": "IGEMBE SOUTH",
+      "constituencyCode": 51
+    },
+    {
+      "countyCode": 12,
+      "countyName": "MERU",
+      "constituency": "IGEMBE CENTRAL",
+      "constituencyCode": 52
+    },
+    {
+      "countyCode": 12,
+      "countyName": "MERU",
+      "constituency": "TIGANIA EAST",
+      "constituencyCode": 55
+    },
+    {
+      "countyCode": 12,
+      "countyName": "MERU",
+      "constituency": "CENTRAL IMENTI",
+      "constituencyCode": 58
+    },
+    {
+      "countyCode": 12,
+      "countyName": "MERU",
+      "constituency": "IGEMBE NORTH",
+      "constituencyCode": 53
+    }
+  ],
+  "THARAKA - NITHI": [
+    {
+      "countyCode": 13,
+      "countyName": "THARAKA - NITHI",
+      "constituency": "MAARA",
+      "constituencyCode": 60
+    },
+    {
+      "countyCode": 13,
+      "countyName": "THARAKA - NITHI",
+      "constituency": "THARAKA",
+      "constituencyCode": 62
+    },
+    {
+      "countyCode": 13,
+      "countyName": "THARAKA - NITHI",
+      "constituency": "CHUKA/IGAMBANG'OMBE",
+      "constituencyCode": 61
+    }
+  ],
+  "EMBU": [
+    {
+      "countyCode": 14,
+      "countyName": "EMBU",
+      "constituency": "RUNYENJES",
+      "constituencyCode": 64
+    },
+    {
+      "countyCode": 14,
+      "countyName": "EMBU",
+      "constituency": "MBEERE NORTH",
+      "constituencyCode": 66
+    },
+    {
+      "countyCode": 14,
+      "countyName": "EMBU",
+      "constituency": "MANYATTA",
+      "constituencyCode": 63
+    },
+    {
+      "countyCode": 14,
+      "countyName": "EMBU",
+      "constituency": "MBEERE SOUTH",
+      "constituencyCode": 65
+    }
+  ],
+  "KITUI": [
+    {
+      "countyCode": 15,
+      "countyName": "KITUI",
+      "constituency": "KITUI EAST",
+      "constituencyCode": 73
+    },
+    {
+      "countyCode": 15,
+      "countyName": "KITUI",
+      "constituency": "KITUI WEST",
+      "constituencyCode": 70
+    },
+    {
+      "countyCode": 15,
+      "countyName": "KITUI",
+      "constituency": "KITUI RURAL",
+      "constituencyCode": 71
+    },
+    {
+      "countyCode": 15,
+      "countyName": "KITUI",
+      "constituency": "KITUI SOUTH",
+      "constituencyCode": 74
+    },
+    {
+      "countyCode": 15,
+      "countyName": "KITUI",
+      "constituency": "KITUI CENTRAL",
+      "constituencyCode": 72
+    },
+    {
+      "countyCode": 15,
+      "countyName": "KITUI",
+      "constituency": "MWINGI WEST",
+      "constituencyCode": 68
+    },
+    {
+      "countyCode": 15,
+      "countyName": "KITUI",
+      "constituency": "MWINGI CENTRAL",
+      "constituencyCode": 69
+    },
+    {
+      "countyCode": 15,
+      "countyName": "KITUI",
+      "constituency": "MWINGI NORTH",
+      "constituencyCode": 67
+    }
+  ],
+  "MACHAKOS": [
+    {
+      "countyCode": 16,
+      "countyName": "MACHAKOS",
+      "constituency": "YATTA",
+      "constituencyCode": 76
+    },
+    {
+      "countyCode": 16,
+      "countyName": "MACHAKOS",
+      "constituency": "MACHAKOS TOWN",
+      "constituencyCode": 81
+    },
+    {
+      "countyCode": 16,
+      "countyName": "MACHAKOS",
+      "constituency": "MATUNGULU",
+      "constituencyCode": 78
+    },
+    {
+      "countyCode": 16,
+      "countyName": "MACHAKOS",
+      "constituency": "MWALA",
+      "constituencyCode": 82
+    },
+    {
+      "countyCode": 16,
+      "countyName": "MACHAKOS",
+      "constituency": "MASINGA",
+      "constituencyCode": 75
+    },
+    {
+      "countyCode": 16,
+      "countyName": "MACHAKOS",
+      "constituency": "KANGUNDO",
+      "constituencyCode": 77
+    },
+    {
+      "countyCode": 16,
+      "countyName": "MACHAKOS",
+      "constituency": "MAVOKO",
+      "constituencyCode": 80
+    },
+    {
+      "countyCode": 16,
+      "countyName": "MACHAKOS",
+      "constituency": "KATHIANI",
+      "constituencyCode": 79
+    }
+  ],
+  "NYANDARUA": [
+    {
+      "countyCode": 18,
+      "countyName": "NYANDARUA",
+      "constituency": "KIPIPIRI",
+      "constituencyCode": 90
+    },
+    {
+      "countyCode": 18,
+      "countyName": "NYANDARUA",
+      "constituency": "KINANGOP",
+      "constituencyCode": 89
+    },
+    {
+      "countyCode": 18,
+      "countyName": "NYANDARUA",
+      "constituency": "NDARAGWA",
+      "constituencyCode": 93
+    },
+    {
+      "countyCode": 18,
+      "countyName": "NYANDARUA",
+      "constituency": "OL JOROK",
+      "constituencyCode": 92
+    },
+    {
+      "countyCode": 18,
+      "countyName": "NYANDARUA",
+      "constituency": "OL KALOU",
+      "constituencyCode": 91
+    }
+  ],
+  "NYERI": [
+    {
+      "countyCode": 19,
+      "countyName": "NYERI",
+      "constituency": "KIENI",
+      "constituencyCode": 95
+    },
+    {
+      "countyCode": 19,
+      "countyName": "NYERI",
+      "constituency": "MATHIRA",
+      "constituencyCode": 96
+    },
+    {
+      "countyCode": 19,
+      "countyName": "NYERI",
+      "constituency": "OTHAYA",
+      "constituencyCode": 97
+    },
+    {
+      "countyCode": 19,
+      "countyName": "NYERI",
+      "constituency": "TETU",
+      "constituencyCode": 94
+    },
+    {
+      "countyCode": 19,
+      "countyName": "NYERI",
+      "constituency": "MUKURWEINI",
+      "constituencyCode": 98
+    },
+    {
+      "countyCode": 19,
+      "countyName": "NYERI",
+      "constituency": "NYERI TOWN",
+      "constituencyCode": 99
+    }
+  ],
+  "KIRINYAGA": [
+    {
+      "countyCode": 20,
+      "countyName": "KIRINYAGA",
+      "constituency": "GICHUGU",
+      "constituencyCode": 101
+    },
+    {
+      "countyCode": 20,
+      "countyName": "KIRINYAGA",
+      "constituency": "KIRINYAGA CENTRAL",
+      "constituencyCode": 103
+    },
+    {
+      "countyCode": 20,
+      "countyName": "KIRINYAGA",
+      "constituency": "NDIA",
+      "constituencyCode": 102
+    },
+    {
+      "countyCode": 20,
+      "countyName": "KIRINYAGA",
+      "constituency": "MWEA",
+      "constituencyCode": 100
+    }
+  ],
+  "MURANG'A": [
+    {
+      "countyCode": 21,
+      "countyName": "MURANG'A",
+      "constituency": "MATHIOYA",
+      "constituencyCode": 105
+    },
+    {
+      "countyCode": 21,
+      "countyName": "MURANG'A",
+      "constituency": "KANDARA",
+      "constituencyCode": 109
+    },
+    {
+      "countyCode": 21,
+      "countyName": "MURANG'A",
+      "constituency": "MARAGWA",
+      "constituencyCode": 108
+    },
+    {
+      "countyCode": 21,
+      "countyName": "MURANG'A",
+      "constituency": "KANGEMA",
+      "constituencyCode": 104
+    },
+    {
+      "countyCode": 21,
+      "countyName": "MURANG'A",
+      "constituency": "KIGUMO",
+      "constituencyCode": 107
+    },
+    {
+      "countyCode": 21,
+      "countyName": "MURANG'A",
+      "constituency": "KIHARU",
+      "constituencyCode": 106
+    },
+    {
+      "countyCode": 21,
+      "countyName": "MURANG'A",
+      "constituency": "GATANGA",
+      "constituencyCode": 110
+    }
+  ],
+  "KIAMBU": [
+    {
+      "countyCode": 22,
+      "countyName": "KIAMBU",
+      "constituency": "GATUNDU NORTH",
+      "constituencyCode": 112
+    },
+    {
+      "countyCode": 22,
+      "countyName": "KIAMBU",
+      "constituency": "KABETE",
+      "constituencyCode": 119
+    },
+    {
+      "countyCode": 22,
+      "countyName": "KIAMBU",
+      "constituency": "KIAMBAA",
+      "constituencyCode": 118
+    },
+    {
+      "countyCode": 22,
+      "countyName": "KIAMBU",
+      "constituency": "GITHUNGURI",
+      "constituencyCode": 116
+    },
+    {
+      "countyCode": 22,
+      "countyName": "KIAMBU",
+      "constituency": "THIKA TOWN",
+      "constituencyCode": 114
+    },
+    {
+      "countyCode": 22,
+      "countyName": "KIAMBU",
+      "constituency": "KIKUYU",
+      "constituencyCode": 120
+    },
+    {
+      "countyCode": 22,
+      "countyName": "KIAMBU",
+      "constituency": "LIMURU",
+      "constituencyCode": 121
+    },
+    {
+      "countyCode": 22,
+      "countyName": "KIAMBU",
+      "constituency": "GATUNDU SOUTH",
+      "constituencyCode": 111
+    },
+    {
+      "countyCode": 22,
+      "countyName": "KIAMBU",
+      "constituency": "LARI",
+      "constituencyCode": 122
+    },
+    {
+      "countyCode": 22,
+      "countyName": "KIAMBU",
+      "constituency": "JUJA",
+      "constituencyCode": 113
+    },
+    {
+      "countyCode": 22,
+      "countyName": "KIAMBU",
+      "constituency": "RUIRU",
+      "constituencyCode": 115
+    },
+    {
+      "countyCode": 22,
+      "countyName": "KIAMBU",
+      "constituency": "KIAMBU",
+      "constituencyCode": 117
+    }
+  ],
+  "TURKANA": [
+    {
+      "countyCode": 23,
+      "countyName": "TURKANA",
+      "constituency": "TURKANA NORTH",
+      "constituencyCode": 123
+    },
+    {
+      "countyCode": 23,
+      "countyName": "TURKANA",
+      "constituency": "TURKANA EAST",
+      "constituencyCode": 128
+    },
+    {
+      "countyCode": 23,
+      "countyName": "TURKANA",
+      "constituency": "TURKANA CENTRAL",
+      "constituencyCode": 125
+    },
+    {
+      "countyCode": 23,
+      "countyName": "TURKANA",
+      "constituency": "TURKANA WEST",
+      "constituencyCode": 124
+    },
+    {
+      "countyCode": 23,
+      "countyName": "TURKANA",
+      "constituency": "LOIMA",
+      "constituencyCode": 126
+    },
+    {
+      "countyCode": 23,
+      "countyName": "TURKANA",
+      "constituency": "TURKANA SOUTH",
+      "constituencyCode": 127
+    }
+  ],
+  "WEST POKOT": [
+    {
+      "countyCode": 24,
+      "countyName": "WEST POKOT",
+      "constituency": "KAPENGURIA",
+      "constituencyCode": 129
+    },
+    {
+      "countyCode": 24,
+      "countyName": "WEST POKOT",
+      "constituency": "SIGOR",
+      "constituencyCode": 130
+    },
+    {
+      "countyCode": 24,
+      "countyName": "WEST POKOT",
+      "constituency": "KACHELIBA",
+      "constituencyCode": 131
+    },
+    {
+      "countyCode": 24,
+      "countyName": "WEST POKOT",
+      "constituency": "POKOT SOUTH",
+      "constituencyCode": 132
+    },
+    {
+      "countyCode": 24,
+      "countyName": "WEST POKOT",
+      "constituency": "MARAKWET WEST",
+      "constituencyCode": 148
+    }
+  ],
+  "SAMBURU": [
+    {
+      "countyCode": 25,
+      "countyName": "SAMBURU",
+      "constituency": "SAMBURU NORTH",
+      "constituencyCode": 134
+    },
+    {
+      "countyCode": 25,
+      "countyName": "SAMBURU",
+      "constituency": "SAMBURU WEST",
+      "constituencyCode": 133
+    },
+    {
+      "countyCode": 25,
+      "countyName": "SAMBURU",
+      "constituency": "SAMBURU EAST",
+      "constituencyCode": 135
+    }
+  ],
+  "UASIN GISHU": [
+    {
+      "countyCode": 27,
+      "countyName": "UASIN GISHU",
+      "constituency": "AINABKOI",
+      "constituencyCode": 144
+    },
+    {
+      "countyCode": 27,
+      "countyName": "UASIN GISHU",
+      "constituency": "MOIBEN",
+      "constituencyCode": 143
+    },
+    {
+      "countyCode": 27,
+      "countyName": "UASIN GISHU",
+      "constituency": "SOY",
+      "constituencyCode": 141
+    },
+    {
+      "countyCode": 27,
+      "countyName": "UASIN GISHU",
+      "constituency": "TURBO",
+      "constituencyCode": 142
+    },
+    {
+      "countyCode": 27,
+      "countyName": "UASIN GISHU",
+      "constituency": "KESSES",
+      "constituencyCode": 146
+    },
+    {
+      "countyCode": 27,
+      "countyName": "UASIN GISHU",
+      "constituency": "KAPSERET",
+      "constituencyCode": 145
+    }
+  ],
+  "ELEGEYO-MARAKWET": [
+    {
+      "countyCode": 28,
+      "countyName": "ELEGEYO-MARAKWET",
+      "constituency": "MARAKWET EAST",
+      "constituencyCode": 147
+    },
+    {
+      "countyCode": 28,
+      "countyName": "ELEGEYO-MARAKWET",
+      "constituency": "KEIYO SOUTH",
+      "constituencyCode": 150
+    }
+  ],
+  "ELGEYO-MARAKWET": [
+    {
+      "countyCode": 28,
+      "countyName": "ELGEYO-MARAKWET",
+      "constituency": "KEIYO NORTH",
+      "constituencyCode": 149
+    }
+  ],
+  "NANDI": [
+    {
+      "countyCode": 29,
+      "countyName": "NANDI",
+      "constituency": "MOSOP",
+      "constituencyCode": 156
+    },
+    {
+      "countyCode": 29,
+      "countyName": "NANDI",
+      "constituency": "NANDI HILLS",
+      "constituencyCode": 153
+    },
+    {
+      "countyCode": 29,
+      "countyName": "NANDI",
+      "constituency": "EMGWEN",
+      "constituencyCode": 155
+    },
+    {
+      "countyCode": 29,
+      "countyName": "NANDI",
+      "constituency": "TINDERET",
+      "constituencyCode": 151
+    },
+    {
+      "countyCode": 29,
+      "countyName": "NANDI",
+      "constituency": "ALDAI",
+      "constituencyCode": 152
+    },
+    {
+      "countyCode": 29,
+      "countyName": "NANDI",
+      "constituency": "CHESUMEI",
+      "constituencyCode": 154
+    }
+  ],
+  "BARINGO": [
+    {
+      "countyCode": 30,
+      "countyName": "BARINGO",
+      "constituency": "BARINGO CENTRAL",
+      "constituencyCode": 159
+    },
+    {
+      "countyCode": 30,
+      "countyName": "BARINGO",
+      "constituency": "BARINGO NORTH",
+      "constituencyCode": 158
+    },
+    {
+      "countyCode": 30,
+      "countyName": "BARINGO",
+      "constituency": "MOGOTIO",
+      "constituencyCode": 161
+    },
+    {
+      "countyCode": 30,
+      "countyName": "BARINGO",
+      "constituency": "ELDAMA RAVINE",
+      "constituencyCode": 162
+    },
+    {
+      "countyCode": 30,
+      "countyName": "BARINGO",
+      "constituency": "BARINGO SOUTH",
+      "constituencyCode": 160
+    },
+    {
+      "countyCode": 30,
+      "countyName": "BARINGO",
+      "constituency": "TIATY",
+      "constituencyCode": 157
+    }
+  ],
+  "LAIKIPIA": [
+    {
+      "countyCode": 31,
+      "countyName": "LAIKIPIA",
+      "constituency": "LAIKIPIA NORTH",
+      "constituencyCode": 165
+    },
+    {
+      "countyCode": 31,
+      "countyName": "LAIKIPIA",
+      "constituency": "LAIKIPIA WEST",
+      "constituencyCode": 163
+    },
+    {
+      "countyCode": 31,
+      "countyName": "LAIKIPIA",
+      "constituency": "LAIKIPIA EAST",
+      "constituencyCode": 164
+    }
+  ],
+  "NAKURU": [
+    {
+      "countyCode": 32,
+      "countyName": "NAKURU",
+      "constituency": "SUBUKIA",
+      "constituencyCode": 172
+    },
+    {
+      "countyCode": 32,
+      "countyName": "NAKURU",
+      "constituency": "KURESOI SOUTH",
+      "constituencyCode": 170
+    },
+    {
+      "countyCode": 32,
+      "countyName": "NAKURU",
+      "constituency": "NJORO",
+      "constituencyCode": 167
+    },
+    {
+      "countyCode": 32,
+      "countyName": "NAKURU",
+      "constituency": "NAKURU TOWN EAST",
+      "constituencyCode": 176
+    },
+    {
+      "countyCode": 32,
+      "countyName": "NAKURU",
+      "constituency": "RONGAI",
+      "constituencyCode": 173
+    },
+    {
+      "countyCode": 32,
+      "countyName": "NAKURU",
+      "constituency": "NAIVASHA",
+      "constituencyCode": 168
+    },
+    {
+      "countyCode": 32,
+      "countyName": "NAKURU",
+      "constituency": "GILGIL",
+      "constituencyCode": 169
+    },
+    {
+      "countyCode": 32,
+      "countyName": "NAKURU",
+      "constituency": "NAKURU TOWN WEST",
+      "constituencyCode": 175
+    },
+    {
+      "countyCode": 32,
+      "countyName": "NAKURU",
+      "constituency": "KURESOI NORTH",
+      "constituencyCode": 171
+    },
+    {
+      "countyCode": 32,
+      "countyName": "NAKURU",
+      "constituency": "MOLO",
+      "constituencyCode": 166
+    },
+    {
+      "countyCode": 32,
+      "countyName": "NAKURU",
+      "constituency": "BAHATI",
+      "constituencyCode": 174
+    }
+  ],
+  "NAROK": [
+    {
+      "countyCode": 33,
+      "countyName": "NAROK",
+      "constituency": "NAROK SOUTH",
+      "constituencyCode": 181
+    },
+    {
+      "countyCode": 33,
+      "countyName": "NAROK",
+      "constituency": "NAROK NORTH",
+      "constituencyCode": 179
+    },
+    {
+      "countyCode": 33,
+      "countyName": "NAROK",
+      "constituency": "KILGORIS",
+      "constituencyCode": 177
+    },
+    {
+      "countyCode": 33,
+      "countyName": "NAROK",
+      "constituency": "NAROK WEST",
+      "constituencyCode": 182
+    },
+    {
+      "countyCode": 33,
+      "countyName": "NAROK",
+      "constituency": "EMURUA DIKIRR",
+      "constituencyCode": 178
+    },
+    {
+      "countyCode": 33,
+      "countyName": "NAROK",
+      "constituency": "NAROK EAST",
+      "constituencyCode": 180
+    }
+  ],
+  "KAJIADO": [
+    {
+      "countyCode": 34,
+      "countyName": "KAJIADO",
+      "constituency": "KAJIADO CENTRAL",
+      "constituencyCode": 184
+    },
+    {
+      "countyCode": 34,
+      "countyName": "KAJIADO",
+      "constituency": "KAJIADO WEST",
+      "constituencyCode": 186
+    },
+    {
+      "countyCode": 34,
+      "countyName": "KAJIADO",
+      "constituency": "KAJIADO EAST",
+      "constituencyCode": 185
+    },
+    {
+      "countyCode": 34,
+      "countyName": "KAJIADO",
+      "constituency": "KAJIADO SOUTH",
+      "constituencyCode": 187
+    },
+    {
+      "countyCode": 34,
+      "countyName": "KAJIADO",
+      "constituency": "KAJIADO NORTH",
+      "constituencyCode": 183
+    }
+  ],
+  "MAKUENI": [
+    {
+      "countyCode": 17,
+      "countyName": "MAKUENI",
+      "constituency": "KIBWEZI WEST",
+      "constituencyCode": 87
+    },
+    {
+      "countyCode": 17,
+      "countyName": "MAKUENI",
+      "constituency": "MBOONI",
+      "constituencyCode": 83
+    },
+    {
+      "countyCode": 17,
+      "countyName": "MAKUENI",
+      "constituency": "MAKUENI",
+      "constituencyCode": 86
+    },
+    {
+      "countyCode": 17,
+      "countyName": "MAKUENI",
+      "constituency": "KAITI",
+      "constituencyCode": 85
+    },
+    {
+      "countyCode": 17,
+      "countyName": "MAKUENI",
+      "constituency": "KILOME",
+      "constituencyCode": 84
+    },
+    {
+      "countyCode": 17,
+      "countyName": "MAKUENI",
+      "constituency": "KIBWEZI EAST",
+      "constituencyCode": 88
+    }
+  ],
+  "KERICHO": [
+    {
+      "countyCode": 35,
+      "countyName": "KERICHO",
+      "constituency": "BELGUT",
+      "constituencyCode": 192
+    },
+    {
+      "countyCode": 35,
+      "countyName": "KERICHO",
+      "constituency": "KIPKELION WEST",
+      "constituencyCode": 189
+    },
+    {
+      "countyCode": 35,
+      "countyName": "KERICHO",
+      "constituency": "SIGOWET/SOIN",
+      "constituencyCode": 193
+    },
+    {
+      "countyCode": 35,
+      "countyName": "KERICHO",
+      "constituency": "KIPKELION EAST",
+      "constituencyCode": 188
+    },
+    {
+      "countyCode": 35,
+      "countyName": "KERICHO",
+      "constituency": "AINAMOI",
+      "constituencyCode": 190
+    },
+    {
+      "countyCode": 35,
+      "countyName": "KERICHO",
+      "constituency": "BURETI",
+      "constituencyCode": 191
+    }
+  ],
+  "BOMET": [
+    {
+      "countyCode": 36,
+      "countyName": "BOMET",
+      "constituency": "KONOIN",
+      "constituencyCode": 198
+    },
+    {
+      "countyCode": 36,
+      "countyName": "BOMET",
+      "constituency": "CHEPALUNGU",
+      "constituencyCode": 195
+    },
+    {
+      "countyCode": 36,
+      "countyName": "BOMET",
+      "constituency": "BOMET EAST",
+      "constituencyCode": 196
+    },
+    {
+      "countyCode": 36,
+      "countyName": "BOMET",
+      "constituency": "SOTIK",
+      "constituencyCode": 194
+    },
+    {
+      "countyCode": 36,
+      "countyName": "BOMET",
+      "constituency": "BOMET CENTRAL",
+      "constituencyCode": 197
+    }
+  ],
+  "KAKAMEGA": [
+    {
+      "countyCode": 37,
+      "countyName": "KAKAMEGA",
+      "constituency": "SHINYALU",
+      "constituencyCode": 209
+    },
+    {
+      "countyCode": 37,
+      "countyName": "KAKAMEGA",
+      "constituency": "MATUNGU",
+      "constituencyCode": 206
+    },
+    {
+      "countyCode": 37,
+      "countyName": "KAKAMEGA",
+      "constituency": "BUTERE",
+      "constituencyCode": 207
+    },
+    {
+      "countyCode": 37,
+      "countyName": "KAKAMEGA",
+      "constituency": "KHWISERO",
+      "constituencyCode": 208
+    },
+    {
+      "countyCode": 37,
+      "countyName": "KAKAMEGA",
+      "constituency": "MALAVA",
+      "constituencyCode": 201
+    },
+    {
+      "countyCode": 37,
+      "countyName": "KAKAMEGA",
+      "constituency": "IKOLOMANI",
+      "constituencyCode": 210
+    },
+    {
+      "countyCode": 37,
+      "countyName": "KAKAMEGA",
+      "constituency": "LURAMBI",
+      "constituencyCode": 202
+    },
+    {
+      "countyCode": 37,
+      "countyName": "KAKAMEGA",
+      "constituency": "MUMIAS WEST",
+      "constituencyCode": 204
+    },
+    {
+      "countyCode": 37,
+      "countyName": "KAKAMEGA",
+      "constituency": "NAVAKHOLO",
+      "constituencyCode": 203
+    },
+    {
+      "countyCode": 37,
+      "countyName": "KAKAMEGA",
+      "constituency": "MUMIAS EAST",
+      "constituencyCode": 205
+    },
+    {
+      "countyCode": 37,
+      "countyName": "KAKAMEGA",
+      "constituency": "LUGARI",
+      "constituencyCode": 199
+    },
+    {
+      "countyCode": 37,
+      "countyName": "KAKAMEGA",
+      "constituency": "LIKUYANI",
+      "constituencyCode": 200
+    }
+  ],
+  "VIHIGA": [
+    {
+      "countyCode": 38,
+      "countyName": "VIHIGA",
+      "constituency": "HAMISI",
+      "constituencyCode": 213
+    },
+    {
+      "countyCode": 38,
+      "countyName": "VIHIGA",
+      "constituency": "SABATIA",
+      "constituencyCode": 212
+    },
+    {
+      "countyCode": 38,
+      "countyName": "VIHIGA",
+      "constituency": "LUANDA",
+      "constituencyCode": 214
+    },
+    {
+      "countyCode": 38,
+      "countyName": "VIHIGA",
+      "constituency": "VIHIGA",
+      "constituencyCode": 211
+    },
+    {
+      "countyCode": 38,
+      "countyName": "VIHIGA",
+      "constituency": "EMUHAYA",
+      "constituencyCode": 215
+    }
+  ],
+  "BUNGOMA": [
+    {
+      "countyCode": 39,
+      "countyName": "BUNGOMA",
+      "constituency": "KANDUYI",
+      "constituencyCode": 220
+    },
+    {
+      "countyCode": 39,
+      "countyName": "BUNGOMA",
+      "constituency": "MT. ELGON",
+      "constituencyCode": 216
+    },
+    {
+      "countyCode": 39,
+      "countyName": "BUNGOMA",
+      "constituency": "KIMILILI",
+      "constituencyCode": 223
+    },
+    {
+      "countyCode": 39,
+      "countyName": "BUNGOMA",
+      "constituency": "SIRISIA",
+      "constituencyCode": 217
+    },
+    {
+      "countyCode": 39,
+      "countyName": "BUNGOMA",
+      "constituency": "BUMULA",
+      "constituencyCode": 219
+    },
+    {
+      "countyCode": 39,
+      "countyName": "BUNGOMA",
+      "constituency": "TONGAREN",
+      "constituencyCode": 224
+    },
+    {
+      "countyCode": 39,
+      "countyName": "BUNGOMA",
+      "constituency": "WEBUYE EAST",
+      "constituencyCode": 221
+    },
+    {
+      "countyCode": 39,
+      "countyName": "BUNGOMA",
+      "constituency": "KABUCHAI",
+      "constituencyCode": 218
+    },
+    {
+      "countyCode": 39,
+      "countyName": "BUNGOMA",
+      "constituency": "WEBUTE WEST",
+      "constituencyCode": 222
+    }
+  ],
+  "BUSIA": [
+    {
+      "countyCode": 40,
+      "countyName": "BUSIA",
+      "constituency": "TESO NORTH",
+      "constituencyCode": 225
+    },
+    {
+      "countyCode": 40,
+      "countyName": "BUSIA",
+      "constituency": "BUTULA",
+      "constituencyCode": 229
+    },
+    {
+      "countyCode": 40,
+      "countyName": "BUSIA",
+      "constituency": "FUNYULA",
+      "constituencyCode": 230
+    },
+    {
+      "countyCode": 40,
+      "countyName": "BUSIA",
+      "constituency": "TESO SOUTH",
+      "constituencyCode": 226
+    },
+    {
+      "countyCode": 40,
+      "countyName": "BUSIA",
+      "constituency": "MATAYOS",
+      "constituencyCode": 228
+    },
+    {
+      "countyCode": 40,
+      "countyName": "BUSIA",
+      "constituency": "NAMBALE",
+      "constituencyCode": 227
+    },
+    {
+      "countyCode": 40,
+      "countyName": "BUSIA",
+      "constituency": "BUDALANGI",
+      "constituencyCode": 231
+    }
+  ],
+  "SIAYA": [
+    {
+      "countyCode": 41,
+      "countyName": "SIAYA",
+      "constituency": "UGENYA",
+      "constituencyCode": 232
+    },
+    {
+      "countyCode": 41,
+      "countyName": "SIAYA",
+      "constituency": "RARIEDA",
+      "constituencyCode": 237
+    },
+    {
+      "countyCode": 41,
+      "countyName": "SIAYA",
+      "constituency": "BONDO",
+      "constituencyCode": 236
+    },
+    {
+      "countyCode": 41,
+      "countyName": "SIAYA",
+      "constituency": "UGUNJA",
+      "constituencyCode": 233
+    },
+    {
+      "countyCode": 41,
+      "countyName": "SIAYA",
+      "constituency": "GEM",
+      "constituencyCode": 235
+    },
+    {
+      "countyCode": 41,
+      "countyName": "SIAYA",
+      "constituency": "ALEGO USONGA",
+      "constituencyCode": 234
+    }
+  ],
+  "HOMA BAY": [
+    {
+      "countyCode": 43,
+      "countyName": "HOMA BAY",
+      "constituency": "RANGWE",
+      "constituencyCode": 248
+    },
+    {
+      "countyCode": 43,
+      "countyName": "HOMA BAY",
+      "constituency": "KASIPUL",
+      "constituencyCode": 245
+    },
+    {
+      "countyCode": 43,
+      "countyName": "HOMA BAY",
+      "constituency": "SUBA",
+      "constituencyCode": 252
+    },
+    {
+      "countyCode": 43,
+      "countyName": "HOMA BAY",
+      "constituency": "KARACHUONYO",
+      "constituencyCode": 247
+    },
+    {
+      "countyCode": 43,
+      "countyName": "HOMA BAY",
+      "constituency": "KABONDO KASIPUL",
+      "constituencyCode": 246
+    },
+    {
+      "countyCode": 43,
+      "countyName": "HOMA BAY",
+      "constituency": "MBITA",
+      "constituencyCode": 251
+    },
+    {
+      "countyCode": 43,
+      "countyName": "HOMA BAY",
+      "constituency": "NDHIWA",
+      "constituencyCode": 250
+    },
+    {
+      "countyCode": 43,
+      "countyName": "HOMA BAY",
+      "constituency": "HOMA BAY TOWN",
+      "constituencyCode": 249
+    }
+  ],
+  "MIGORI": [
+    {
+      "countyCode": 44,
+      "countyName": "MIGORI",
+      "constituency": "KURIA EAST",
+      "constituencyCode": 260
+    },
+    {
+      "countyCode": 44,
+      "countyName": "MIGORI",
+      "constituency": "NYATIKE",
+      "constituencyCode": 258
+    },
+    {
+      "countyCode": 44,
+      "countyName": "MIGORI",
+      "constituency": "AWENDO",
+      "constituencyCode": 254
+    },
+    {
+      "countyCode": 44,
+      "countyName": "MIGORI",
+      "constituency": "KURIA WEST",
+      "constituencyCode": 259
+    },
+    {
+      "countyCode": 44,
+      "countyName": "MIGORI",
+      "constituency": "URIRI",
+      "constituencyCode": 257
+    },
+    {
+      "countyCode": 44,
+      "countyName": "MIGORI",
+      "constituency": "RONGO",
+      "constituencyCode": 253
+    },
+    {
+      "countyCode": 44,
+      "countyName": "MIGORI",
+      "constituency": "SUNA EAST",
+      "constituencyCode": 255
+    },
+    {
+      "countyCode": 44,
+      "countyName": "MIGORI",
+      "constituency": "SUNA WEST",
+      "constituencyCode": 256
+    }
+  ],
+  "KISII": [
+    {
+      "countyCode": 45,
+      "countyName": "KISII",
+      "constituency": "NYARIBARI CHACHE",
+      "constituencyCode": 267
+    },
+    {
+      "countyCode": 45,
+      "countyName": "KISII",
+      "constituency": "KITUTU CHACHE NORTH",
+      "constituencyCode": 268
+    },
+    {
+      "countyCode": 45,
+      "countyName": "KISII",
+      "constituency": "NYARIBARI MASABA",
+      "constituencyCode": 266
+    },
+    {
+      "countyCode": 45,
+      "countyName": "KISII",
+      "constituency": "BOMACHOGE CHACHE",
+      "constituencyCode": 265
+    },
+    {
+      "countyCode": 45,
+      "countyName": "KISII",
+      "constituency": "BOBASI",
+      "constituencyCode": 264
+    },
+    {
+      "countyCode": 45,
+      "countyName": "KISII",
+      "constituency": "BOMACHOGE BORABU",
+      "constituencyCode": 263
+    },
+    {
+      "countyCode": 45,
+      "countyName": "KISII",
+      "constituency": "BONCHARI",
+      "constituencyCode": 261
+    },
+    {
+      "countyCode": 45,
+      "countyName": "KISII",
+      "constituency": "KITUTU CHACHE SOUTH",
+      "constituencyCode": 269
+    },
+    {
+      "countyCode": 45,
+      "countyName": "KISII",
+      "constituency": "SOUTH MUGIRANGO",
+      "constituencyCode": 262
+    }
+  ],
+  "NYAMIRA": [
+    {
+      "countyCode": 46,
+      "countyName": "NYAMIRA",
+      "constituency": "NORTH MUGIRANGO",
+      "constituencyCode": 272
+    },
+    {
+      "countyCode": 46,
+      "countyName": "NYAMIRA",
+      "constituency": "WEST MUGIRANGO",
+      "constituencyCode": 271
+    },
+    {
+      "countyCode": 46,
+      "countyName": "NYAMIRA",
+      "constituency": "KITUTU MASABA",
+      "constituencyCode": 270
+    },
+    {
+      "countyCode": 46,
+      "countyName": "NYAMIRA",
+      "constituency": "BORABU",
+      "constituencyCode": 273
+    }
+  ],
+  "KISUMU": [
+    {
+      "countyCode": 42,
+      "countyName": "KISUMU",
+      "constituency": "NYAKACH",
+      "constituencyCode": 244
+    },
+    {
+      "countyCode": 42,
+      "countyName": "KISUMU",
+      "constituency": "SEME",
+      "constituencyCode": 241
+    },
+    {
+      "countyCode": 42,
+      "countyName": "KISUMU",
+      "constituency": "NYANDO",
+      "constituencyCode": 242
+    },
+    {
+      "countyCode": 42,
+      "countyName": "KISUMU",
+      "constituency": "KISUMU WEST",
+      "constituencyCode": 239
+    },
+    {
+      "countyCode": 42,
+      "countyName": "KISUMU",
+      "constituency": "KISUMU EAST",
+      "constituencyCode": 238
+    },
+    {
+      "countyCode": 42,
+      "countyName": "KISUMU",
+      "constituency": "MUHORONI",
+      "constituencyCode": 243
+    },
+    {
+      "countyCode": 42,
+      "countyName": "KISUMU",
+      "constituency": "KISUMU CENTRAL",
+      "constituencyCode": 240
+    }
+  ],
+  "TRANS NZOIA": [
+    {
+      "countyCode": 26,
+      "countyName": "TRANS NZOIA",
+      "constituency": "ENDEBESS",
+      "constituencyCode": 137
+    },
+    {
+      "countyCode": 26,
+      "countyName": "TRANS NZOIA",
+      "constituency": "KWANZA",
+      "constituencyCode": 136
+    },
+    {
+      "countyCode": 26,
+      "countyName": "TRANS NZOIA",
+      "constituency": "SABOTI",
+      "constituencyCode": 138
+    },
+    {
+      "countyCode": 26,
+      "countyName": "TRANS NZOIA",
+      "constituency": "CHERANGANY",
+      "constituencyCode": 140
+    },
+    {
+      "countyCode": 26,
+      "countyName": "TRANS NZOIA",
+      "constituency": "KIMININI",
+      "constituencyCode": 139
+    }
+  ]
+}
