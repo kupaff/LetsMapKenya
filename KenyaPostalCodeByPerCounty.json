@@ -1,0 +1,365 @@
+{
+  "counties": [
+    {
+      "county": "Mombasa",
+      "postal_codes": [
+        {"postalCode": "80100", "postalOffice": "Mombasa"},
+        {"postalCode": "80101", "postalOffice": "Bamburi"},
+        {"postalCode": "80102", "postalOffice": "Changamwe"},
+        {"postalCode": "80103", "postalOffice": "Coast Gen. Hospital"},
+        {"postalCode": "80104", "postalOffice": "Docks"},
+        {"postalCode": "80106", "postalOffice": "Mkomani"},
+        {"postalCode": "80107", "postalOffice": "Kilindini"},
+        {"postalCode": "80110", "postalOffice": "Likoni"},
+        {"postalCode": "80111", "postalOffice": "Mtongwe"},
+        {"postalCode": "80112", "postalOffice": "Makupa"},
+        {"postalCode": "80115", "postalOffice": "Moi Airport"},
+        {"postalCode": "80117", "postalOffice": "Mtopanga"},
+        {"postalCode": "80118", "postalOffice": "Nyali"},
+        {"postalCode": "80122", "postalOffice": "Kengeleni"},
+        {"postalCode": "80123", "postalOffice": "Kanamai"}
+      ]
+    },
+    {
+      "county": "Kwale",
+      "postal_codes": [
+        {"postalCode": "80120", "postalOffice": "Samburu"},
+        {"postalCode": "80400", "postalOffice": "Ukunda"},
+        {"postalCode": "80401", "postalOffice": "Diani Beach"},
+        {"postalCode": "80402", "postalOffice": "Lunga Lunga"},
+        {"postalCode": "80403", "postalOffice": "Kwale"},
+        {"postalCode": "80404", "postalOffice": "Msambweni"},
+        {"postalCode": "80405", "postalOffice": "Kinango"},
+        {"postalCode": "80406", "postalOffice": "Matuga"},
+        {"postalCode": "80407", "postalOffice": "Shimba Hills"},
+        {"postalCode": "80409", "postalOffice": "Shimoni"},
+        {"postalCode": "80410", "postalOffice": "Kikoneni"}
+      ]
+    },
+    {
+      "county": "Kilifi",
+      "postal_codes": [
+        {"postalCode": "80105", "postalOffice": "Kaloleni"},
+        {"postalCode": "80108", "postalOffice": "Kilifi"},
+        {"postalCode": "80109", "postalOffice": "Mtwapa"},
+        {"postalCode": "80113", "postalOffice": "Mariakani"},
+        {"postalCode": "80114", "postalOffice": "Mazeras"},
+        {"postalCode": "80119", "postalOffice": "Vipingo"},
+        {"postalCode": "80200", "postalOffice": "Malindi"},
+        {"postalCode": "80202", "postalOffice": "Watamu"},
+        {"postalCode": "80205", "postalOffice": "Ganze"},
+        {"postalCode": "80206", "postalOffice": "Gongoni"},
+        {"postalCode": "80207", "postalOffice": "Madina"},
+        {"postalCode": "80208", "postalOffice": "Gede"},
+        {"postalCode": "80209", "postalOffice": "Kakoneni"},
+        {"postalCode": "80210", "postalOffice": "Bamba"},
+        {"postalCode": "80211", "postalOffice": "Vitengeni"},
+        {"postalCode": "80212", "postalOffice": "Ngomeni"},
+        {"postalCode": "80213", "postalOffice": "Mambrui"}
+      ]
+    },
+    {
+      "county": "Tana River",
+      "postal_codes": [
+        {"postalCode": "80201", "postalOffice": "Garsen"},
+        {"postalCode": "80203", "postalOffice": "Tarasaa"}
+      ]
+    },
+    {
+      "county": "Lamu",
+      "postal_codes": [
+        {"postalCode": "80500", "postalOffice": "Lamu"},
+        {"postalCode": "80501", "postalOffice": "Faza"},
+        {"postalCode": "80502", "postalOffice": "Mokowe"},
+        {"postalCode": "80503", "postalOffice": "Mpeketoni"},
+        {"postalCode": "80504", "postalOffice": "Witu"}
+      ]
+    },
+    {
+      "county": "Taita Taveta",
+      "postal_codes": [
+        {"postalCode": "40509", "postalOffice": "Manga"},
+        {"postalCode": "50219", "postalOffice": "Luandanyi"},
+        {"postalCode": "80300", "postalOffice": "Voi"},
+        {"postalCode": "80301", "postalOffice": "Manyani"},
+        {"postalCode": "80302", "postalOffice": "Taveta"},
+        {"postalCode": "80303", "postalOffice": "Werugha"},
+        {"postalCode": "80304", "postalOffice": "Wundanyi"},
+        {"postalCode": "80305", "postalOffice": "Mwatate"},
+        {"postalCode": "80306", "postalOffice": "Mgange"},
+        {"postalCode": "80307", "postalOffice": "Kasigau"},
+        {"postalCode": "80308", "postalOffice": "Sagalla"},
+        {"postalCode": "80309", "postalOffice": "Tausa"},
+        {"postalCode": "80311", "postalOffice": "Ng’Ambwa"},
+        {"postalCode": "80313", "postalOffice": "Mgambonyi"},
+        {"postalCode": "80314", "postalOffice": "Chumvini"},
+        {"postalCode": "80315", "postalOffice": "Maktau"},
+        {"postalCode": "80317", "postalOffice": "Maungu"}
+      ]
+    },
+    {
+      "county": "Garisa",
+      "postal_codes": [
+        {"postalCode": "70100", "postalOffice": "Garissa"},
+        {"postalCode": "70101", "postalOffice": "Hola"},
+        {"postalCode": "70102", "postalOffice": "Modo Gashe"},
+        {"postalCode": "70103", "postalOffice": "Dadaab"},
+        {"postalCode": "70104", "postalOffice": "Bura Tana"},
+        {"postalCode": "70105", "postalOffice": "Masalani"}
+      ]
+    },
+    {
+      "county": "Wajir",
+      "postal_codes": [
+        {"postalCode": "70200", "postalOffice": "Wajir"},
+        {"postalCode": "70201", "postalOffice": "Habaswein"}
+      ]
+    },
+    {
+      "county": "Mandera",
+      "postal_codes": [
+        {"postalCode": "70300", "postalOffice": "Mandera"},
+        {"postalCode": "70301", "postalOffice": "Elwak"}
+      ]
+    },
+    {
+      "county": "Marsabit",
+      "postal_codes": [
+        {"postalCode": "60500", "postalOffice": "Marsabit"},
+        {"postalCode": "60501", "postalOffice": "Loiyangalani"},
+        {"postalCode": "60502", "postalOffice": "Laisamis"},
+        {"postalCode": "60700", "postalOffice": "Moyale"},
+        {"postalCode": "60701", "postalOffice": "Sololo"}
+      ]
+    },
+    {
+      "county": "Isiolo",
+      "postal_codes": [
+        {"postalCode": "60300", "postalOffice": "Isiolo"},
+        {"postalCode": "60301", "postalOffice": "Garba Tulla"},
+        {"postalCode": "60302", "postalOffice": "Archers Post"},
+        {"postalCode": "60303", "postalOffice": "Merti"}
+      ]
+    },
+    {
+      "county": "Meru",
+      "postal_codes": [
+        {"postalCode": "00903", "postalOffice": "Githiga"},
+        {"postalCode": "01017", "postalOffice": "Kiriua"},
+        {"postalCode": "60201", "postalOffice": "Kibirichia"},
+        {"postalCode": "60205", "postalOffice": "Githongo"}
+      ]
+    },
+    {
+      "county": "Tharaka Nithi",
+      "postal_codes": [
+        {"postalCode": "10115", "postalOffice": "Gathunga"},
+        {"postalCode": "60213", "postalOffice": "Tunyai"},
+        {"postalCode": "60214", "postalOffice": "Nkondi"},
+        {"postalCode": "60215", "postalOffice": "Marimanti"},
+        {"postalCode": "60400", "postalOffice": "Chuka"},
+        {"postalCode": "60401", "postalOffice": "Chogoria"},
+        {"postalCode": "60402", "postalOffice": "Igoji"},
+        {"postalCode": "60403", "postalOffice": "Magumoni"},
+        {"postalCode": "60404", "postalOffice": "Gatunga"},
+        {"postalCode": "60405", "postalOffice": "Ikuu"},
+        {"postalCode": "60406", "postalOffice": "Kathwana"},
+        {"postalCode": "60407", "postalOffice": "Magutuni"},
+        {"postalCode": "60408", "postalOffice": "Marima"},
+        {"postalCode": "60409", "postalOffice": "Chiakariga"},
+        {"postalCode": "60410", "postalOffice": "Chiakanyinga"},
+        {"postalCode": "60411", "postalOffice": "Huduma Chuka"},
+        {"postalCode": "60411", "postalOffice": "Kaanwa"}
+      ]
+    },
+    {
+      "county": "Embu",
+      "postal_codes": [
+        {"postalCode": "01031", "postalOffice": "Kindaruma"},
+        {"postalCode": "60100", "postalOffice": "Embu"},
+        {"postalCode": "60101", "postalOffice": "Manyatta"},
+        {"postalCode": "60102", "postalOffice": "Ishiara"},
+        {"postalCode": "60103", "postalOffice": "Runyenjes"},
+        {"postalCode": "60104", "postalOffice": "Kiritiri"},
+        {"postalCode": "60105", "postalOffice": "Siakago"},
+        {"postalCode": "60106", "postalOffice": "Kianjokoma"},
+        {"postalCode": "60107", "postalOffice": "Mukuuri"},
+        {"postalCode": "60108", "postalOffice": "Ngandori"},
+        {"postalCode": "60109", "postalOffice": "Ngandori East"},
+        {"postalCode": "60110", "postalOffice": "Nginda"},
+        {"postalCode": "60111", "postalOffice": "Makengi"},
+        {"postalCode": "60112", "postalOffice": "Gategi"},
+        {"postalCode": "60113", "postalOffice": "Samar"},
+        {"postalCode": "60114", "postalOffice": "Kamugere"},
+        {"postalCode": "60115", "postalOffice": "Kathanjure"},
+        {"postalCode": "60116", "postalOffice": "Kiangima"}
+      ]
+    },
+    {
+      "county": "Kitui",
+      "postal_codes": [
+        {"postalCode": "01030", "postalOffice": "Kiambere"},
+        {"postalCode": "90200", "postalOffice": "Kitui"},
+        {"postalCode": "90201", "postalOffice": "Mutomo"},
+        {"postalCode": "90202", "postalOffice": "Ikanga"},
+        {"postalCode": "90203", "postalOffice": "Mutitu"},
+        {"postalCode": "90204", "postalOffice": "Kyuso"},
+        {"postalCode": "90205", "postalOffice": "Migwani"},
+        {"postalCode": "90206", "postalOffice": "Kanziko"},
+        {"postalCode": "90207", "postalOffice": "Kabati"},
+        {"postalCode": "90208", "postalOffice": "Zombe"},
+        {"postalCode": "90209", "postalOffice": "Mutha"},
+        {"postalCode": "90210", "postalOffice": "Mwingi"},
+        {"postalCode": "90211", "postalOffice": "Nuu"},
+        {"postalCode": "90212", "postalOffice": "Nguni"},
+        {"postalCode": "90213", "postalOffice": "Kwa Vonza"},
+        {"postalCode": "90214", "postalOffice": "Tseikuru"},
+        {"postalCode": "90215", "postalOffice": "Migwani"},
+        {"postalCode": "90216", "postalOffice": "Mui"},
+        {"postalCode": "90217", "postalOffice": "Ngomeni"},
+        {"postalCode": "90218", "postalOffice": "Kyome"}
+      ]
+    },
+    {
+      "county": "Machakos",
+      "postal_codes": [
+        {"postalCode": "01010", "postalOffice": "Kikima"},
+        {"postalCode": "01024", "postalOffice": "Katangi"},
+        {"postalCode": "01025", "postalOffice": "Makuyuni"},
+        {"postalCode": "01029", "postalOffice": "Masinga"},
+        {"postalCode": "01033", "postalOffice": "Mavindini"},
+        {"postalCode": "01034", "postalOffice": "Nzeeka"},
+        {"postalCode": "01035", "postalOffice": "Tala"},
+        {"postalCode": "01036", "postalOffice": "Wamunyu"},
+        {"postalCode": "90100", "postalOffice": "Machakos"},
+        {"postalCode": "90101", "postalOffice": "Matuu"},
+        {"postalCode": "90102", "postalOffice": "Kangundo"},
+        {"postalCode": "90103", "postalOffice": "Masinga"},
+        {"postalCode": "90104", "postalOffice": "Kangundo"},
+        {"postalCode": "90105", "postalOffice": "Kathiani"},
+        {"postalCode": "90106", "postalOffice": "Masii"},
+        {"postalCode": "90107", "postalOffice": "Mitaboni"},
+        {"postalCode": "90108", "postalOffice": "Ekalakala"},
+        {"postalCode": "90109", "postalOffice": "Sultan Hamud"},
+        {"postalCode": "90110", "postalOffice": "Kangundo"},
+        {"postalCode": "90111", "postalOffice": "Ndithini"},
+        {"postalCode": "90112", "postalOffice": "Kalamba"},
+        {"postalCode": "90113", "postalOffice": "Kathiako"},
+        {"postalCode": "90114", "postalOffice": "Kikambuani"},
+        {"postalCode": "90115", "postalOffice": "Kithimani"},
+        {"postalCode": "90116", "postalOffice": "Lukenya"},
+        {"postalCode": "90117", "postalOffice": "Mbiuni"},
+        {"postalCode": "90118", "postalOffice": "Mbumbuni"},
+        {"postalCode": "90119", "postalOffice": "Mwala"},
+        {"postalCode": "90120", "postalOffice": "Ngoliba"},
+        {"postalCode": "90121", "postalOffice": "Yatta"}
+      ]
+    },
+    {
+      "county": "Makueni",
+      "postal_codes": [
+        {"postalCode": "01012", "postalOffice": "Kalawa"},
+        {"postalCode": "01013", "postalOffice": "Emali"},
+        {"postalCode": "01026", "postalOffice": "Kikumini"},
+        {"postalCode": "01027", "postalOffice": "Mithanga"},
+        {"postalCode": "01028", "postalOffice": "Mtito Andei"},
+        {"postalCode": "01032", "postalOffice": "Kalama"},
+        {"postalCode": "01037", "postalOffice": "Wote"},
+        {"postalCode": "90300", "postalOffice": "Makueni"},
+        {"postalCode": "90301", "postalOffice": "Makindu"},
+        {"postalCode": "90302", "postalOffice": "Kibwezi"},
+        {"postalCode": "90303", "postalOffice": "Nunguni"},
+        {"postalCode": "90304", "postalOffice": "Sultan Hamud"},
+        {"postalCode": "90305", "postalOffice": "Kambu"},
+        {"postalCode": "90306", "postalOffice": "Matiliku"},
+        {"postalCode": "90307", "postalOffice": "Emali"},
+        {"postalCode": "90308", "postalOffice": "Kilome"},
+        {"postalCode": "90309", "postalOffice": "Mavindini"},
+        {"postalCode": "90310", "postalOffice": "Masongaleni"},
+        {"postalCode": "90311", "postalOffice": "Mbooni"},
+        {"postalCode": "90312", "postalOffice": "Nzaui"},
+        {"postalCode": "90313", "postalOffice": "Nguu"},
+        {"postalCode": "90314", "postalOffice": "Kalawa"},
+        {"postalCode": "90315", "postalOffice": "Mavivye"},
+        {"postalCode": "90316", "postalOffice": "Masii"}
+      ]
+    },
+    {
+      "county": "Nyandarua",
+      "postal_codes": [
+        {"postalCode": "20300", "postalOffice": "Nyahururu"},
+        {"postalCode": "20301", "postalOffice": "Kinamba"},
+        {"postalCode": "20302", "postalOffice": "Ol Kalau"},
+        {"postalCode": "20303", "postalOffice": "Ndaragwa"},
+        {"postalCode": "20304", "postalOffice": "Mairo Inya"},
+        {"postalCode": "20305", "postalOffice": "Kasuku"},
+        {"postalCode": "20306", "postalOffice": "Ol Joro Orok"},
+        {"postalCode": "20307", "postalOffice": "Engineer"},
+        {"postalCode": "20308", "postalOffice": "Njabini"},
+        {"postalCode": "20309", "postalOffice": "Miharati"},
+        {"postalCode": "20310", "postalOffice": "North Kinangop"},
+        {"postalCode": "20311", "postalOffice": "South Kinangop"},
+        {"postalCode": "20312", "postalOffice": "Mutonyora"},
+        {"postalCode": "20313", "postalOffice": "Mutarakwa"},
+        {"postalCode": "20314", "postalOffice": "Rurii"}
+      ]
+    },
+    {
+      "county": "Nyeri",
+      "postal_codes": [
+        {"postalCode": "10100", "postalOffice": "Nyeri"},
+        {"postalCode": "10101", "postalOffice": "Karatina"},
+        {"postalCode": "10102", "postalOffice": "Kiganjo"},
+        {"postalCode": "10103", "postalOffice": "Mukurweini"},
+        {"postalCode": "10104", "postalOffice": "Othaya"},
+        {"postalCode": "10105", "postalOffice": "Marua"},
+        {"postalCode": "10106", "postalOffice": "Chaka"},
+        {"postalCode": "10107", "postalOffice": "Endarasha"},
+        {"postalCode": "10108", "postalOffice": "Watuka"},
+        {"postalCode": "10109", "postalOffice": "Mweiga"},
+        {"postalCode": "10110", "postalOffice": "Ihururu"},
+        {"postalCode": "10111", "postalOffice": "Kagumo"},
+        {"postalCode": "10112", "postalOffice": "Kimahuri"},
+        {"postalCode": "10113", "postalOffice": "Gakindu"},
+        {"postalCode": "10114", "postalOffice": "Ragati"},
+        {"postalCode": "10115", "postalOffice": "Gathunga"},
+        {"postalCode": "10116", "postalOffice": "Kaburu"},
+        {"postalCode": "10117", "postalOffice": "Kiamachimbi"},
+        {"postalCode": "10118", "postalOffice": "Kiawara"},
+        {"postalCode": "10119", "postalOffice": "Kiriti"},
+        {"postalCode": "10120", "postalOffice": "Mwiri"},
+        {"postalCode": "10121", "postalOffice": "Unjiru"},
+        {"postalCode": "10122", "postalOffice": "Gaikuyu"},
+        {"postalCode": "10123", "postalOffice": "Kaheti"},
+        {"postalCode": "10124", "postalOffice": "Kiamwangi"},
+        {"postalCode": "10125", "postalOffice": "Kiamuya"},
+        {"postalCode": "10126", "postalOffice": "Kibutio"},
+        {"postalCode": "10127", "postalOffice": "Kirichu"},
+        {"postalCode": "10128", "postalOffice": "Kithure"},
+        {"postalCode": "10129", "postalOffice": "Mathakwa"},
+        {"postalCode": "10130", "postalOffice": "Muthinga"},
+        {"postalCode": "10131", "postalOffice": "Njengeni"},
+        {"postalCode": "10132", "postalOffice": "Nyange"},
+        {"postalCode": "10133", "postalOffice": "Njukiini"},
+        {"postalCode": "10134", "postalOffice": "Karatina"}
+      ]
+    },
+    {
+      "county": "Laikipia",
+      "postal_codes": [
+        {"postalCode": "10400", "postalOffice": "Nanyuki"},
+        {"postalCode": "10401", "postalOffice": "Rumuruti"},
+        {"postalCode": "10402", "postalOffice": "Nyahururu"},
+        {"postalCode": "10403", "postalOffice": "Kinamba"},
+        {"postalCode": "10404", "postalOffice": "Marmanet"},
+        {"postalCode": "10405", "postalOffice": "Gituamba"},
+        {"postalCode": "10406", "postalOffice": "Ol Moran"},
+        {"postalCode": "10407", "postalOffice": "Muromon"},
+        {"postalCode": "10408", "postalOffice": "Ndurumo"},
+        {"postalCode": "10409", "postalOffice": "Kinyua"},
+        {"postalCode": "10410", "postalOffice": "Kihato"},
+        {"postalCode": "10411", "postalOffice": "Ngarengiro"}
+      ]
+    }
+  ]
+}
