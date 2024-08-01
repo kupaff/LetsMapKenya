@@ -1,5 +1,5 @@
 # LetsMapKenya
-Side project to provide kenya geo data for developers work in progress .. data is not validate but closely accurate
+Side project to provide kenya geo data for developers work in progress .. data is not validated but closely accurate
 
 
 # Breakdown of the Postal Code:
