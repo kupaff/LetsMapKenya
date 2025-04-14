@@ -1,0 +1,548 @@
+{
+  "universities": [
+    {
+      "name": "University of Nairobi",
+      "type": "public",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Moi University",
+      "type": "public",
+      "location": {
+        "area": "Kesses",
+        "county": "Uasin Gishu County"
+      }
+    },
+    {
+      "name": "Kenyatta University",
+      "type": "public",
+      "location": {
+        "area": "Kahawa, Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Egerton University",
+      "type": "public",
+      "location": {
+        "area": "Njoro",
+        "county": "Nakuru County"
+      }
+    },
+    {
+      "name": "Jomo Kenyatta University of Agriculture and Technology",
+      "type": "public",
+      "location": {
+        "area": "Juja",
+        "county": "Kiambu County"
+      }
+    },
+    {
+      "name": "Maseno University",
+      "type": "public",
+      "location": {
+        "area": "Maseno",
+        "county": "Kisumu County"
+      }
+    },
+    {
+      "name": "Masinde Muliro University of Science and Technology",
+      "type": "public",
+      "location": {
+        "area": "Kakamega",
+        "county": "Kakamega County"
+      }
+    },
+    {
+      "name": "Dedan Kimathi University of Technology",
+      "type": "public",
+      "location": {
+        "area": "Nyeri",
+        "county": "Nyeri County"
+      }
+    },
+    {
+      "name": "Chuka University",
+      "type": "public",
+      "location": {
+        "area": "Chuka",
+        "county": "Tharaka-Nithi County"
+      }
+    },
+    {
+      "name": "Technical University of Mombasa",
+      "type": "public",
+      "location": {
+        "area": "Mombasa",
+        "county": "Mombasa County"
+      }
+    },
+    {
+      "name": "University of Eldoret",
+      "type": "public",
+      "location": {
+        "area": "Eldoret",
+        "county": "Uasin Gishu County"
+      }
+    },
+    {
+      "name": "Meru University of Science and Technology",
+      "type": "public",
+      "location": {
+        "area": "Meru",
+        "county": "Meru County"
+      }
+    },
+    {
+      "name": "Maasai Mara University",
+      "type": "public",
+      "location": {
+        "area": "Narok",
+        "county": "Narok County"
+      }
+    },
+    {
+      "name": "Machakos University",
+      "type": "public",
+      "location": {
+        "area": "Machakos",
+        "county": "Machakos County"
+      }
+    },
+    {
+      "name": "Jaramogi Oginga Odinga University of Science and Technology",
+      "type": "public",
+      "location": {
+        "area": "Bondo",
+        "county": "Siaya County"
+      }
+    },
+    {
+      "name": "Technical University of Kenya",
+      "type": "public",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "South Eastern Kenya University",
+      "type": "public",
+      "location": {
+        "area": "Kitui",
+        "county": "Kitui County"
+      }
+    },
+    {
+      "name": "Multimedia University of Kenya",
+      "type": "public",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "University of Kabianga",
+      "type": "public",
+      "location": {
+        "area": "Kericho",
+        "county": "Kericho County"
+      }
+    },
+    {
+      "name": "Karatina University",
+      "type": "public",
+      "location": {
+        "area": "Karatina",
+        "county": "Nyeri County"
+      }
+    },
+    {
+      "name": "Laikipia University",
+      "type": "public",
+      "location": {
+        "area": "Nyahururu",
+        "county": "Laikipia County"
+      }
+    },
+    {
+      "name": "Pwani University",
+      "type": "public",
+      "location": {
+        "area": "Kilifi",
+        "county": "Kilifi County"
+      }
+    },
+    {
+      "name": "Kisii University",
+      "type": "public",
+      "location": {
+        "area": "Kisii",
+        "county": "Kisii County"
+      }
+    },
+    {
+      "name": "Garissa University",
+      "type": "public",
+      "location": {
+        "area": "Garissa",
+        "county": "Garissa County"
+      }
+    },
+    {
+      "name": "Taita Taveta University",
+      "type": "public",
+      "location": {
+        "area": "Voi",
+        "county": "Taita Taveta County"
+      }
+    },
+    {
+      "name": "Kirinyaga University",
+      "type": "public",
+      "location": {
+        "area": "Kutus",
+        "county": "Kirinyaga County"
+      }
+    },
+    {
+      "name": "Murang’a University of Technology",
+      "type": "public",
+      "location": {
+        "area": "Murang’a",
+        "county": "Murang’a County"
+      }
+    },
+    {
+      "name": "Co-operative University of Kenya",
+      "type": "public",
+      "location": {
+        "area": "Karen, Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "University of Embu",
+      "type": "public",
+      "location": {
+        "area": "Embu",
+        "county": "Embu County"
+      }
+    },
+    {
+      "name": "Rongo University",
+      "type": "public",
+      "location": {
+        "area": "Rongo",
+        "county": "Migori County"
+      }
+    },
+    {
+      "name": "Kibabii University",
+      "type": "public",
+      "location": {
+        "area": "Bungoma",
+        "county": "Bungoma County"
+      }
+    },
+    {
+      "name": "The Open University of Kenya",
+      "type": "public",
+      "location": {
+        "area": "Virtual (online-based)",
+        "county": "N/A"
+      }
+    },
+    {
+      "name": "Alupe University College",
+      "type": "public",
+      "location": {
+        "area": "Busia",
+        "county": "Busia County"
+      }
+    },
+    {
+      "name": "Kaimosi Friends University College",
+      "type": "public",
+      "location": {
+        "area": "Kaimosi",
+        "county": "Vihiga County"
+      }
+    },
+    {
+      "name": "Tom Mboya University College",
+      "type": "public",
+      "location": {
+        "area": "Homa Bay",
+        "county": "Homa Bay County"
+      }
+    },
+    {
+      "name": "Bomet University College",
+      "type": "public",
+      "location": {
+        "area": "Bomet",
+        "county": "Bomet County"
+      }
+    },
+    {
+      "name": "Tharaka University College",
+      "type": "public",
+      "location": {
+        "area": "Tharaka-Nithi",
+        "county": "Tharaka-Nithi County"
+      }
+    },
+    {
+      "name": "Koitaleel Samoei University College",
+      "type": "public",
+      "location": {
+        "area": "Nandi",
+        "county": "Nandi County"
+      }
+    },
+    {
+      "name": "Turkana University College",
+      "type": "public",
+      "location": {
+        "area": "Turkana",
+        "county": "Turkana County"
+      }
+    },
+    {
+      "name": "Strathmore University",
+      "type": "private",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Mount Kenya University",
+      "type": "private",
+      "location": {
+        "area": "Thika",
+        "county": "Kiambu County"
+      }
+    },
+    {
+      "name": "St. Paul’s University",
+      "type": "private",
+      "location": {
+        "area": "Limuru",
+        "county": "Kiambu County"
+      }
+    },
+    {
+      "name": "Pan Africa Christian University",
+      "type": "private",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Kabarak University",
+      "type": "private",
+      "location": {
+        "area": "Nakuru",
+        "county": "Nakuru County"
+      }
+    },
+    {
+      "name": "Africa International University",
+      "type": "private",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Adventist University of Africa",
+      "type": "private",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "AMREF International University",
+      "type": "private",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Kiriri Women’s University of Science and Technology",
+      "type": "private",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Daystar University",
+      "type": "private",
+      "location": {
+        "area": "Athi River, Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Catholic University of Eastern Africa",
+      "type": "private",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "United States International University Africa",
+      "type": "private",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Africa Nazarene University",
+      "type": "private",
+      "location": {
+        "area": "Ongata Rongai, Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Kenya Methodist University",
+      "type": "private",
+      "location": {
+        "area": "Meru",
+        "county": "Meru County"
+      }
+    },
+    {
+      "name": "KAG East University",
+      "type": "private",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Great Lakes University of Kisumu",
+      "type": "private",
+      "location": {
+        "area": "Kisumu",
+        "county": "Kisumu County"
+      }
+    },
+    {
+      "name": "KCA University",
+      "type": "private",
+      "location": {
+        "area": "Ruaraka, Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Presbyterian University of East Africa",
+      "type": "private",
+      "location": {
+        "area": "Kikuyu",
+        "county": "Kiambu County"
+      }
+    },
+    {
+      "name": "Gretsa University",
+      "type": "private",
+      "location": {
+        "area": "Thika",
+        "county": "Kiambu County"
+      }
+    },
+    {
+      "name": "Pioneer International University",
+      "type": "private",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "UMMA University",
+      "type": "private",
+      "location": {
+        "area": "Kajiado",
+        "county": "Kajiado County"
+      }
+    },
+    {
+      "name": "Management University of Africa",
+      "type": "private",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Riara University",
+      "type": "private",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Zetech University",
+      "type": "private",
+      "location": {
+        "area": "Ruiru",
+        "county": "Kiambu County"
+      }
+    },
+    {
+      "name": "Lukenya University",
+      "type": "private",
+      "location": {
+        "area": "Mtito Andei",
+        "county": "Makueni County"
+      }
+    },
+    {
+      "name": "Aga Khan University",
+      "type": "private",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "International Leadership University",
+      "type": "private",
+      "location": {
+        "area": "Nairobi",
+        "county": "Nairobi County"
+      }
+    },
+    {
+      "name": "Kenya Highlands Evangelical University",
+      "type": "private",
+      "location": {
+        "area": "Kericho",
+        "county": "Kericho County"
+      }
+    },
+    {
+      "name": "Scott Christian University",
+      "type": "private",
+      "location": {
+        "area": "Machakos",
+        "county": "Machakos County"
+      }
+    }
+  ]
+}
