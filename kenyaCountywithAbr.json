@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Mombasa",
+    "code": 1,
+    "capital": "Mombasa City",
+    "abbr": "MBS"
+  },
+  {
+    "name": "Kwale",
+    "code": 2,
+    "capital": "Kwale",
+    "abbr": "KWA"
+  },
+  {
+    "name": "Kilifi",
+    "code": 3,
+    "capital": "Kilifi",
+    "abbr": "KLF"
+  },
+  {
+    "name": "Tana River",
+    "code": 4,
+    "capital": "Hola",
+    "abbr": "TNR"
+  },
+  {
+    "name": "Lamu",
+    "code": 5,
+    "capital": "Lamu",
+    "abbr": "LMU"
+  },
+  {
+    "name": "Taita-Taveta",
+    "code": 6,
+    "capital": "Voi",
+    "abbr": "TTV"
+  },
+  {
+    "name": "Garissa",
+    "code": 7,
+    "capital": "Garissa",
+    "abbr": "GAR"
+  },
+  {
+    "name": "Wajir",
+    "code": 8,
+    "capital": "Wajir",
+    "abbr": "WAJ"
+  },
+  {
+    "name": "Mandera",
+    "code": 9,
+    "capital": "Mandera",
+    "abbr": "MAN"
+  },
+  {
+    "name": "Marsabit",
+    "code": 10,
+    "capital": "Marsabit",
+    "abbr": "MRB"
+  },
+  {
+    "name": "Isiolo",
+    "code": 11,
+    "capital": "Isiolo",
+    "abbr": "ISI"
+  },
+  {
+    "name": "Meru",
+    "code": 12,
+    "capital": "Meru",
+    "abbr": "MER"
+  },
+  {
+    "name": "Tharaka-Nithi",
+    "code": 13,
+    "capital": "Chuka",
+    "abbr": "TNH"
+  },
+  {
+    "name": "Embu",
+    "code": 14,
+    "capital": "Embu",
+    "abbr": "EMB"
+  },
+  {
+    "name": "Kitui",
+    "code": 15,
+    "capital": "Kitui",
+    "abbr": "KTU"
+  },
+  {
+    "name": "Machakos",
+    "code": 16,
+    "capital": "Machakos",
+    "abbr": "MCK"
+  },
+  {
+    "name": "Makueni",
+    "code": 17,
+    "capital": "Wote",
+    "abbr": "MKU"
+  },
+  {
+    "name": "Nyandarua",
+    "code": 18,
+    "capital": "Ol Kalou",
+    "abbr": "NYD"
+  },
+  {
+    "name": "Nyeri",
+    "code": 19,
+    "capital": "Nyeri",
+    "abbr": "NYR"
+  },
+  {
+    "name": "Kirinyaga",
+    "code": 20,
+    "capital": "Kerugoya/Kutus",
+    "abbr": "KRG"
+  },
+  {
+    "name": "Murang'a",
+    "code": 21,
+    "capital": "Murang'a",
+    "abbr": "MRG"
+  },
+  {
+    "name": "Kiambu",
+    "code": 22,
+    "capital": "Kiambu",
+    "abbr": "KMB"
+  },
+  {
+    "name": "Turkana",
+    "code": 23,
+    "capital": "Lodwar",
+    "abbr": "TRK"
+  },
+  {
+    "name": "West Pokot",
+    "code": 24,
+    "capital": "Kapenguria",
+    "abbr": "WPK"
+  },
+  {
+    "name": "Samburu",
+    "code": 25,
+    "capital": "Maralal",
+    "abbr": "SMB"
+  },
+  {
+    "name": "Trans-Nzoia",
+    "code": 26,
+    "capital": "Kitale",
+    "abbr": "TNZ"
+  },
+  {
+    "name": "Uasin Gishu",
+    "code": 27,
+    "capital": "Eldoret",
+    "abbr": "UGS"
+  },
+  {
+    "name": "Elgeyo-Marakwet",
+    "code": 28,
+    "capital": "Iten",
+    "abbr": "ELM"
+  },
+  {
+    "name": "Nandi",
+    "code": 29,
+    "capital": "Kapsabet",
+    "abbr": "NDI"
+  },
+  {
+    "name": "Baringo",
+    "code": 30,
+    "capital": "Kabarnet",
+    "abbr": "BRG"
+  },
+  {
+    "name": "Laikipia",
+    "code": 31,
+    "capital": "Rumuruti",
+    "abbr": "LKP"
+  },
+  {
+    "name": "Nakuru",
+    "code": 32,
+    "capital": "Nakuru",
+    "abbr": "NKR"
+  },
+  {
+    "name": "Narok",
+    "code": 33,
+    "capital": "Narok",
+    "abbr": "NRK"
+  },
+  {
+    "name": "Kajiado",
+    "code": 34,
+    "capital": "Kajiado",
+    "abbr": "KJD"
+  },
+  {
+    "name": "Kericho",
+    "code": 35,
+    "capital": "Kericho",
+    "abbr": "KRC"
+  },
+  {
+    "name": "Bomet",
+    "code": 36,
+    "capital": "Bomet",
+    "abbr": "BMT"
+  },
+  {
+    "name": "Kakamega",
+    "code": 37,
+    "capital": "Kakamega",
+    "abbr": "KKG"
+  },
+  {
+    "name": "Vihiga",
+    "code": 38,
+    "capital": "Vihiga",
+    "abbr": "VHG"
+  },
+  {
+    "name": "Bungoma",
+    "code": 39,
+    "capital": "Bungoma",
+    "abbr": "BNG"
+  },
+  {
+    "name": "Busia",
+    "code": 40,
+    "capital": "Busia",
+    "abbr": "BSA"
+  },
+  {
+    "name": "Siaya",
+    "code": 41,
+    "capital": "Siaya",
+    "abbr": "SIA"
+  },
+  {
+    "name": "Kisumu",
+    "code": 42,
+    "capital": "Kisumu",
+    "abbr": "KSM"
+  },
+  {
+    "name": "Homa Bay",
+    "code": 43,
+    "capital": "Homa Bay",
+    "abbr": "HBY"
+  },
+  {
+    "name": "Migori",
+    "code": 44,
+    "capital": "Migori",
+    "abbr": "MGR"
+  },
+  {
+    "name": "Kisii",
+    "code": 45,
+    "capital": "Kisii",
+    "abbr": "KSI"
+  },
+  {
+    "name": "Nyamira",
+    "code": 46,
+    "capital": "Nyamira",
+    "abbr": "NYM"
+  },
+  {
+    "name": "Nairobi",
+    "code": 47,
+    "capital": "Nairobi City",
+    "abbr": "NRB"
+  }
+]
